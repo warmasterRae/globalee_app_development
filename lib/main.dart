@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'constants.dart' as Constants;
 
 void main() {
   runApp(const MyApp());
