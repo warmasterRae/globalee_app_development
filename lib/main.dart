@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'constants.dart' as Constants;
 import 'dart:ui';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 
 void main() {
   runApp(const MyApp());
